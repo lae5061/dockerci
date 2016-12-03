@@ -1,6 +1,8 @@
 # The deployment section should be excluded until
 # it is explicitly included in module 5
 
+#Force Update
+
 deployment:
   dockerhub:
     branch: master
